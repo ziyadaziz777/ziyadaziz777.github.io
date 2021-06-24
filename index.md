@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Please checkout my [peronal website](https://ziyadaziz777.github.io/personal_webstie)
+Please checkout my [peronal website](https://ziyadaziz777.github.io/personal_website)
 
 You can use the [editor on GitHub](https://github.com/ziyadaziz777/ziyadaziz777.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
